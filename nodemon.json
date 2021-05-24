@@ -1,0 +1,7 @@
+{
+    "env": {
+        "MONGO_USER": "md-crud-node",
+        "MONGO_PASSWORD": "UBk1N6GQwwRhuqAT",
+        "MONGO_DB": "md-crud-db"
+    }
+}
