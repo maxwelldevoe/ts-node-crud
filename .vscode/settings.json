@@ -1,5 +1,7 @@
 {
     "editor.quickSuggestions": null,
     "editor.suggestOnTriggerCharacters": false,
-    "editor.parameterHints": false
+    "editor.parameterHints": false,
+    "editor.fontFamily": "Fira Code", 
+    "editor.fontLigatures": true
 }
